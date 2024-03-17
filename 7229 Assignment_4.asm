@@ -1,7 +1,3 @@
-;	Name    : Khushi
-;	Roll No : 7229
-;	Write an X86/64 ALP to count number of positive and number of negative numbers from the array.
-;	Date : 12/04/2022
 
 %macro write 2
 	mov rax, 1
