@@ -1,4 +1,4 @@
-;	Name : Khushi
+
 ; Input and store 5 64-bit hexadecimal number , and display them;
 
 %macro write 2
