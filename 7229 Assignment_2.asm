@@ -1,4 +1,4 @@
-;	Name : Khushi
+
 ; Display length of a string
 
 %macro write 2
