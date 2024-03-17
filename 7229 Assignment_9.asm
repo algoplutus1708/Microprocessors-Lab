@@ -1,6 +1,4 @@
-; Name    : Puja
-; Roll No : 7243
-; Date    : 10/05/2022
+
 ; Write X86 menu driven Assembly Language Program (ALP) to implement OS (DOS) commands TYPE, COPY and DELETE using file operations. 
 ; User is supposed to provide command line arguments in all cases.
 %include "macro.asm"
