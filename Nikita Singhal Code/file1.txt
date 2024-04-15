@@ -1,0 +1,6 @@
+The microprocessor is one of the most important components of a digital computer!!
+It acts as the brain of the computer system!!
+Microprocessor is the controlling unit of a micro-computer!!
+It is fabricated on a very small chip!!
+It is capable of performing ALU operations!!
+It can also communicate with the external external devices devices connected to it!!
